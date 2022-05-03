@@ -1,0 +1,2 @@
+<input type="number" class="time-start form-control" name="duration" value="<?php echo e($faculty_time_table->session_start_time ?? ''); ?>" placeholder="Enter duration">
+<?php /**PATH /home/prashant/repo/personal/practicle/resources/views/components/input/session-time.blade.php ENDPATH**/ ?>

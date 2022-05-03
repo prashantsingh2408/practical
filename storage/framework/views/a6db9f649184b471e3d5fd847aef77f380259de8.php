@@ -1,0 +1,2 @@
+<input  type="number" class="time-duration form-control" name="time" value="<?php echo e($duration); ?>" placeholder="Enter time">
+<?php /**PATH /home/prashant/repo/personal/practicle/resources/views/components/input/duration.blade.php ENDPATH**/ ?>

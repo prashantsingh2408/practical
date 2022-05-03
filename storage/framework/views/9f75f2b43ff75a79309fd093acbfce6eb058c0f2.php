@@ -1,0 +1,2 @@
+<input type="date" class="form-control" name="time" value='<?php echo e($time); ?>' placeholder="Enter time">
+<?php /**PATH /home/prashant/repo/personal/practicle/resources/views/components/input/session-date.blade.php ENDPATH**/ ?>
